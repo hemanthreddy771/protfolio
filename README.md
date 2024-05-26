@@ -2,8 +2,8 @@
 # Live Demo
 # https://hemanthreddy771.github.io/protfolio/
 # Output
-![My Portfolio - Google Chrome 26-05-2024 14_49_50](https://github.com/hemanthreddy771/protfolio/assets/170849319/0d577c4a-322f-4169-9638-1f747cde874e)
-![My Portfolio - Google Chrome 26-05-2024 14_50_01](https://github.com/hemanthreddy771/protfolio/assets/170849319/54a379b7-c7bf-4430-aca0-b163e6dddbed)
-![My Portfolio - Google Chrome 26-05-2024 14_50_07](https://github.com/hemanthreddy771/protfolio/assets/170849319/0a1ae439-aed5-4bb9-8626-ffa0927cd904)
-![My Portfolio - Google Chrome 26-05-2024 14_50_12](https://github.com/hemanthreddy771/protfolio/assets/170849319/cb64d820-8e0b-40da-8b4f-ac4505100baf)
-![Screenshot 26-05-2024 14_49_37](https://github.com/hemanthreddy771/protfolio/assets/170849319/433e08ed-84b6-4b93-a82b-4aeedea5b8da)
+![My Portfolio - Google Chrome 26-05-2024 14_50_12](https://github.com/hemanthreddy771/protfolio/assets/170849319/3fbce313-c136-48a3-bb81-8f1fc8057053)
+![My Portfolio - Google Chrome 26-05-2024 14_50_07](https://github.com/hemanthreddy771/protfolio/assets/170849319/dc2a5e6e-bca1-4e39-93ca-d8c0d6d0b7d3)
+![My Portfolio - Google Chrome 26-05-2024 14_50_01](https://github.com/hemanthreddy771/protfolio/assets/170849319/4b29d3dd-54be-42d2-84f5-832aa50997d2)
+![My Portfolio - Google Chrome 26-05-2024 14_49_50](https://github.com/hemanthreddy771/protfolio/assets/170849319/64bdb52d-3175-4685-9f35-a29f624d4935)
+![Screenshot 26-05-2024 14_49_37](https://github.com/hemanthreddy771/protfolio/assets/170849319/25a8bc9a-d93d-4de2-94fc-e5283de86daf)
